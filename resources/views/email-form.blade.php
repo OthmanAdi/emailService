@@ -9,6 +9,8 @@
 <body>
 <div class="container mt-5">
     <div class="row">
+        <a href="{{route('message.history')}}" class="btn btn-secondary mt-3 mb-3">Nachrichtverluaf anzeigen</a>
+        
         <div class="col-md-6 offset-md-3">
             <div class="card">
                 <div class="card-header bg-dark text-white">
